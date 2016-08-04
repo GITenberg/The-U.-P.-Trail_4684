@@ -1,0 +1,42 @@
+_repo: The-U.-P.-Trail_4684
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Grey, Zane
+    aliases:
+    - Gray, Pearl Zane
+    - Gray, Zane
+    birthdate: 1872
+    deathdate: 1939
+    gutenberg_agent_id: '212'
+    url: http://www.gutenberg.org/2009/agents/212
+    wikipedia: http://en.wikipedia.org/wiki/Zane_Grey
+description: Zane Grey, an author synonymous with the daring tales of the Wild West,
+  delivers an exciting tale in this phenominal best-seller, The U.P. Trail. As the
+  country changes around them, a group of Wyoming residents ban together to fight
+  the coming of the Union Pacific Railroad. But railroad engineer Warren Neale, struggling
+  against the terrain, the climate, the populace and even his girlfriend's abduction,
+  is determined to see his project to completion.
+gutenberg_bookshelf:
+- Bestsellers, American, 1895-1923
+- Western
+gutenberg_issued: '2003-11-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '4684'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Love stories'
+- !lcc 'PS'
+- !lcsh 'Surveyors -- Fiction'
+- !lcsh 'Union Pacific Railroad Company -- Fiction'
+- !lcsh 'Western stories'
+- !lcsh 'Kidnapping victims -- Fiction'
+- !lcsh 'Wyoming -- Fiction'
+- !lcsh 'Railroads -- Design and construction -- Fiction'
+- GITenberg
+title: The U. P. Trail
+url: http://www.gutenberg.org/ebooks/4684
