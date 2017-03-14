@@ -1,5 +1,8 @@
 _repo: The-U.-P.-Trail_4684
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Grey, Zane
@@ -17,6 +20,8 @@ description: Zane Grey, an author synonymous with the daring tales of the Wild W
   the coming of the Union Pacific Railroad. But railroad engineer Warren Neale, struggling
   against the terrain, the climate, the populace and even his girlfriend's abduction,
   is determined to see his project to completion.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/4684#The-U.-P.-Trail
 gutenberg_bookshelf:
 - Bestsellers, American, 1895-1923
 - Western
